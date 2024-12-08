@@ -1,1 +1,0 @@
-Vue tailwind demo project
